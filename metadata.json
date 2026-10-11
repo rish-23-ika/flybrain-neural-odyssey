@@ -1,0 +1,8 @@
+{
+  "name": "FLYBRAIN: Neural Odyssey",
+  "description": "A 3D fruit fly flight adventure and interactive neural connectome odyssey exploring microscopic worlds and living neural pathways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
